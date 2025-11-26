@@ -1,214 +1,107 @@
-Privacy Policy
+Privacy Policy for Opslivo
+Last Updated: 26 Nov 2025
 
-Opslivo
-Effective Date: 23 Nov 2025
-Last Updated: 23 Nov 2025
+RMDevelopers ("we," "our," or "us") respects your privacy and is committed to protecting it through our compliance with this policy. This Privacy Policy describes the types of information we collect from you or that you may provide when you visit the Opslivo mobile application (the "App") and our practices for collecting, using, maintaining, protecting, and disclosing that information.
 
-Opslivo respects your privacy and is committed to protecting the personal and business data you share while using our application.
-
-This Privacy Policy explains how we collect, use, store, and protect your data when you use the Opslivo mobile application and related services.
+Opslivo is a B2B application designed for Service and Retail businesses to track profitability, employee time, and expenses.
 
 1. Information We Collect
+We collect several types of information from and about users of our App, including:
 
-We collect only what is necessary to deliver core functionality and business value.
+A. Personal Identification Information
+Account Data: When you register (as an Owner or Employee), we collect your email address, full name, and password (hashed).
 
-1.1 Personal Information
+Profile Data: You may optionally provide a profile photograph, phone number, and other personal identifiers.
 
-When you register or use Opslivo, we may collect:
+B. Business & Operational Data
+Organization Details: Business name, logo, signature image, tax identification numbers, billing address, and invoice notes.
 
-Full name
+Client Data: Names and contact details of your clients (for Service businesses).
 
-Email address
+Financial Data: Job quotes, hourly rates, material costs, retail sales data, and expense receipts.
 
-Password (securely encrypted, never stored in plain text)
+C. Location Data (Crucial)
+GPS Coordinates: We collect precise location data (Latitude/Longitude) from Employee devices only when they perform specific actions: Clocking In and Clocking Out.
 
-Profile photo
+Purpose: This data is used solely to verify attendance and ensure employees are at the correct job site or retail location during work hours.
 
-Phone number (optional)
+D. Media & User Content
+Camera & Photos: We request access to your device's camera and photo library to allow you to upload images of receipts (for material costs/spoilage), organization logos, signatures, and profile photos.
 
-Role within organization (Owner / Employee)
+E. Subscription & Payment Information
+Transaction Data: We utilize RevenueCat to manage subscriptions. While we do not store your credit card information directly, we process data regarding your subscription status (Free/Pro), purchase history, and entitlement IDs ("Opslivo Pro") to unlock features.
 
-1.2 Business Information
+Payment Processing: All financial transactions are handled by the Apple App Store or Google Play Store. We do not process or store complete payment card details.
 
-Organization name
+F. Device & Usage Data
+Device Identifiers: We may collect information about your mobile device and internet connection, including the device's unique device identifier, operating system, and mobile network information (via standard analytics and RevenueCat synchronization).
 
-Business type (Service or Retail)
+App Preferences: We store local preferences such as your selected Currency (via AsyncStorage).
 
-Business address
+2. How We Use Your Information
+We use the information we collect to:
 
-Tax details (label, number)
+Provide Core Functionality: Creating jobs, tracking time, calculating real-time profit, and generating invoices/reports.
 
-Invoice footer notes
+Verify Employment Activities: Using GPS data to validate employee time logs.
 
-Signature image and logo
+Process Subscriptions: Using RevenueCat to verify your "Pro" status and restore purchases across devices.
 
-1.3 Work & Operational Data
+Data Storage: Storing receipts and business assets securely via Supabase Storage.
 
-The app collects work-related business data, including:
+Communications: Sending invitation emails to employees and critical account updates.
 
-Job details and client names
+Improvement: Monitoring app performance and feature usage to fix bugs and improve user experience.
 
-Daily retail register entries
+3. Third-Party Services
+We share data with specific third-party service providers who facilitate the App's operation. These parties are authorized to use your personal information only as necessary to provide these services to us:
 
-Time logs (clock in/out timestamps)
+Supabase (Backend as a Service): Used for authentication, database hosting (PostgreSQL), and file storage. All data is encrypted in transit and at rest.
 
-Material costs and expenses
+RevenueCat: Used for subscription infrastructure and purchase validation. We sync your User ID with RevenueCat to manage your subscription status.
 
-Retail sales records
+Apple App Store / Google Play Store: Process all payments for subscriptions.
 
-Break durations
+4. Data Retention
+General Retention: We retain your data as long as your account is active or as needed to provide you services.
 
-Profit and financial calculations
+Free vs. Pro Tier:
 
-Uploaded receipts and documents
+Free Tier: Historical data access is limited to the last 7 days within the App interface, but the data is retained in our database unless account deletion is requested.
 
-2. Camera & Image Access
+Pro Tier: We retain full historical data for unlimited access as long as the subscription is active.
 
-Opslivo requests access to your device camera for legitimate operational purposes only.
+Deletion: If you request to delete your account, we will delete your profile and anonymize or delete your associated data (time logs, sales), subject to legitimate business record-keeping requirements.
 
-Camera is used for:
+5. Security
+We implement security measures designed to protect your personal information:
 
-Uploading receipt photos
+Encryption: Data is transmitted via HTTPS (TLS/SSL).
 
-Uploading material cost proof
+Access Control: We use Row Level Security (RLS) in our database to ensure data isolation. Owners can only see their organization's data; Employees can only access data permitted by their role.
 
-Updating profile photos
+Authentication: We use secure, token-based authentication and invitation systems.
 
-Uploading organization logos and signatures
+However, no security system is impenetrable, and we cannot guarantee the security of our systems 100%.
 
-Image Handling:
+6. Permissions
+To provide the features described, the App may request the following permissions:
 
-Images are uploaded securely to our storage service (Supabase Storage).
+Location (When In Use): Required for the Clock-In/Out feature.
 
-Images are tied to your organization and are not accessed across organizations.
+Camera/Storage: Required for uploading receipts and profile images.
 
-We do not access your camera silently or in the background.
+You can revoke these permissions at any time in your device settings, but doing so may disable core features of the App.
 
-The camera is only activated when you initiate a capture action.
+7. Children's Privacy
+Our Service is a B2B tool intended for business owners and employees. We do not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not use the App.
 
-3. Location Data
+8. Changes to Our Privacy Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date. You are advised to review this Privacy Policy periodically for any changes.
 
-Opslivo collects location data only during clock-in and clock-out actions.
+9. Contact Us
+If you have any questions about this Privacy Policy or our data practices, please contact us at:
 
-This is used for:
-
-Verifying on-site presence
-
-Ensuring time log authenticity
-
-Preventing location manipulation
-
-Location data is not tracked continuously and is only captured during clock in/out.
-
-4. How We Use Your Data
-
-We use your data to:
-
-Authenticate users securely
-
-Provide real-time job profitability calculations
-
-Enable time and attendance tracking
-
-Generate business analytics and summaries
-
-Facilitate employee management
-
-Support receipt uploads and invoice generation
-
-Ensure organization-level access security
-
-Improve product functionality and performance
-
-We do not sell or trade your data with third parties.
-
-5. Data Storage & Security
-
-Opslivo uses Supabase (PostgreSQL + Secure Storage) as its primary backend.
-
-Security measures include:
-
-Row Level Security (RLS) for organization isolation
-
-Encrypted connections via HTTPS
-
-Secure authentication and token handling
-
-Isolated secure storage buckets
-
-Production-level permission controls
-
-Only authorized users within your organization can access your organization data.
-
-6. Third-Party Services
-
-We use trusted third-party infrastructure providers:
-
-Service	Purpose
-Supabase	Database, Authentication, File Storage
-Expo	App framework and build tool
-React Native	Application runtime
-
-These services comply with modern data security standards and only process data required to deliver functionality.
-
-7. Data Retention
-
-We retain your data for as long as your account or organization remains active.
-
-If you delete your account or organization:
-
-Your data is either permanently deleted or anonymized.
-
-Backup data is purged based on system cleanup cycles.
-
-8. User Rights
-
-You have full control over your data.
-
-You may:
-
-Request access to your stored data
-
-Request data deletion
-
-Update or correct incorrect data
-
-Permanently close your account
-
-Contact us using the email below for such requests.
-
-9. Permissions Justification
-
-Here is a direct policy mapping for Play Store:
-
-Permission	Reason
-CAMERA	Receipt uploads, profile photo, organization logo
-ACCESS_FINE_LOCATION	Clock-in/out GPS verification
-READ_EXTERNAL_STORAGE	File and image uploads
-INTERNET	Cloud synchronization and authentication
-
-All permissions are requested only when needed and are not used silently.
-
-10. Children's Privacy
-
-Opslivo is a professional B2B platform and is not intended for individuals under the age of 18.
-
-We do not knowingly collect data from minors.
-
-11. Policy Updates
-
-We reserve the right to update this policy without prior notice. Any major changes will be reflected in:
-
-App updates
-
-Notification messaging
-
-Official website
-
-12. Contact Information
-
-For privacy-related queries, contact:
-
-Company Name: RMDevelopers
-App Name: Opslivo
 Email: rohitmadasvpn@gmail.com
+
+Organization: RMDevelopers
