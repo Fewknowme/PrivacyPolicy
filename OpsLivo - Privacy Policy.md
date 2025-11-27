@@ -106,4 +106,20 @@ If you have any questions about this Privacy Policy or our data practices, pleas
 
 Email: rohitmadasvpn@gmail.com
 
+
+10. Data Deletion & Account Removal
+You have the right to request the deletion of your account and all associated personal data.
+
+How to Request Deletion:
+
+Via Email: To request permanent account deletion, please email us at rohitmadasvpn@gmail.com with the subject line "Account Deletion Request". Please send this email from the email address associated with your Opslivo account so we can verify your identity. We will process your request within 30 days.
+
+Consequences of Deletion:
+
+Personal Data: Your login credentials, profile photo, and personal identifiers will be permanently removed.
+
+For Organization Owners: Deleting your account will permanently delete your Organization and all associated business data (active jobs, employee lists, financial records, and receipts). This action is irreversible.
+
+For Employees: Your personal profile will be removed. Note that historical time logs (clock-in/clock-out times) may be retained by the Organization for payroll, tax compliance, and audit purposes, but will be anonymized where possible.
+
 Organization: RMDevelopers
