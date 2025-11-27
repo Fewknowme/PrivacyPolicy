@@ -38,6 +38,8 @@ Device Identifiers: We may collect information about your mobile device and inte
 
 App Preferences: We store local preferences such as your selected Currency (via AsyncStorage).
 
+Technical Device Permissions To ensure the App functions correctly, we may also request technical permissions such as Internet access (to connect to our servers), Network State (to handle offline/online modes), and Vibration (for tactile feedback on timers and alerts). These permissions are used strictly for app functionality and not for collecting personal data.
+
 2. How We Use Your Information
 We use the information we collect to:
 
