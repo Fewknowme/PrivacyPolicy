@@ -1,30 +1,83 @@
- This privacy policy was last updated on January 2, 2022. Our privacy policy may change from time to time for any reason.
- If we make any material changes to our policies, we will place a prominent notice on our website or application.
- If you have any questions or concerns about our privacy policies, feel free to contact us at any time.
+# Privacy Policy
 
-What information does the Application obtain and how is it used?
-The Application does not collect or transmit any information at all.
+**Last updated: July 11, 2026**
 
-How do you handle location data?
-The Application does not use or collect any data related to your geographic location.
+Your privacy is important to us. This application is designed to work entirely on your device. We do not operate any servers for storing your notes or personal information.
 
-Can users see their personal data?
-The Application itself does not collect, transmit, or maintain user data.
+This Privacy Policy explains what information the application uses and how it is handled.
 
-Do you share personal information?
-As no personal information is collected, transmitted, or maintained by the Application, we do not share personal information with anyone.
+## What information does the application obtain?
 
-Do advertising companies collect data?
-The Application has no facility for collecting, transmitting, or maintaining user data, so no data is shared with advertising companies.
+The application stores the following information **locally on your device only**:
 
-Do you use vendors or analytics providers?
-No. The Application has no facility for collecting, transmitting, or maintaining user data, so no data is shared with vendors or analytics providers.
+* Notes you create.
+* Your display name (if you choose to set one).
+* Your application preferences, including theme (light/dark) and text size.
+* Other application settings required for normal operation.
 
-Do you comply with the Children’s Online Privacy Protection Act (COPPA)?
-Yes we do not collect any data.
+This information is **never transmitted to us**.
 
-How are you storing the data?
-We are using localstorage. The data will be stored on your mobile device only and it will be lost if you reset/uninstall the application.
+## Voice Transcription
 
-WE ARE NOT LIABLE FOR LOST DATA.
-WE DON'T STORE YOUR DATA. WE PHYSICALLY CAN'T. WE DON'T HAVE SERVER DB TO STORE DATA.
+The application includes an optional voice transcription feature.
+
+When you choose to use voice transcription:
+
+* The application requests microphone permission.
+* On iOS, Speech Recognition permission is also requested as required by the operating system.
+* Audio is used only to perform the transcription you requested.
+* We do not receive, collect, store, or have access to your recordings or transcribed content.
+
+The processing of speech recognition may be performed by operating system services provided by Apple or Google, depending on your device. Their handling of speech data is governed by their respective privacy policies.
+
+## How do you handle location data?
+
+The application does not access, collect, or use your geographic location.
+
+## Can users see their personal data?
+
+Yes. All notes and application settings remain on your device and are accessible only to you through the application.
+
+## Do you share personal information?
+
+No.
+
+We do not collect personal information, and we do not share any user data with third parties.
+
+## Do advertising companies collect data?
+
+No.
+
+The application does not display advertisements and does not share data with advertising companies.
+
+## Do you use vendors or analytics providers?
+
+No.
+
+The application does not include analytics, tracking, crash reporting, or telemetry services, and no user data is transmitted to external providers.
+
+## Children's Privacy
+
+The application does not knowingly collect any personal information from children. Since no personal data is collected or transmitted, the application complies with the principles of the Children's Online Privacy Protection Act (COPPA).
+
+## How is my data stored?
+
+All application data is stored locally on your device using local device storage.
+
+Your notes and settings are **not uploaded to our servers**, because we do not operate any servers for storing your data.
+
+If you uninstall the application, clear its storage, or reset your device, your locally stored data may be permanently deleted.
+
+**We cannot recover lost notes or settings because we do not have a copy of your data.**
+
+## Data Security
+
+Since your information remains on your device, protecting access to your device is the primary safeguard for your data. We recommend using your device's built-in security features, such as a screen lock or biometric authentication.
+
+## Changes to this Privacy Policy
+
+We may update this Privacy Policy from time to time to reflect changes in the application. Any updates will be reflected by revising the "Last updated" date above.
+
+## Contact Us
+
+If you have any questions or concerns regarding this Privacy Policy, you may contact us through the contact information provided on the application's store listing or official support channels.
