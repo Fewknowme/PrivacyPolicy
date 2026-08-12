@@ -122,4 +122,4 @@ For privacy questions or concerns about ArthZen, contact:
 
 **RMDevelopers**
 
-Email: [rohitmadas744@gmail.com](mailto:rohitmadas744@gmail.com)
+Email: [rohitmadasvpn@gmail.com](mailto:rohitmadasvpn@gmail.com)
