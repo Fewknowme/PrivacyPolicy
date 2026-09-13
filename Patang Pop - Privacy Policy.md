@@ -7,7 +7,7 @@ Effective 13 September 2026
 
 ## Your game stays on your device
 
-Patang Pop is an offline puzzle game. It has no account, game server, cloud save, purchases or subscriptions. Levels and artwork are included in the app. Progress, best stars, cosmetic thread, unlocked colours, the last daily-gift claim date and settings are stored locally. We do not send this saved game content to our own server.
+Patang Pop is an offline puzzle game. It has no account, game server, cloud save, purchases or subscriptions. Levels and artwork are included in the app. Progress, best stars, active playing time, per-level best completion times, cosmetic thread, unlocked colours, the last daily-gift claim date and settings are stored locally. We do not send this saved game content to our own server.
 
 
 
@@ -15,7 +15,7 @@ Patang Pop is an offline puzzle game. It has no account, game server, cloud save
 
 The Android app includes Google AdMob and Google's User Messaging Platform. When network access and applicable privacy choices permit, Google's advertising SDK may collect and share IP address (which can indicate approximate location), device and account identifiers including advertising ID and app set ID, app and ad interactions, and diagnostic/performance information. These are used for advertising, measurement/analytics, and fraud prevention. Google's SDK documentation states that this information is encrypted in transit. The game does not request precise location, contacts, camera or microphone permissions.
 
-All gameplay, hints, retries, level rewards and cosmetic unlocks are available without an internet connection. When a retry ad is available online, completing it starts a fresh attempt; closing early keeps the current attempt. Offline or unavailable retry ads allow a free retry. Optional rewarded videos provide extra cosmetic thread after completion, including a daily gift that can be claimed once per device calendar day. No account or login is required for this gift. Occasional interstitial ads may appear at level transitions when online. There are no ads during active puzzle moves.
+All gameplay, hints, retries, level rewards and cosmetic unlocks are available without an internet connection. When a retry ad is available online, completing it starts a fresh attempt; closing early keeps the current attempt. Offline or unavailable retry ads allow a free retry. Optional rewarded videos provide extra cosmetic thread after completion, including a daily gift that can be claimed once per device calendar day. No account or login is required for this gift. Occasional interstitial ads may appear at level transitions when online. Bottom banner ads may appear on all game screens, including during play, when an ad is available. Banners sit separately below the game controls. Full-screen ads do not interrupt active puzzle moves.
 
 See [Google's privacy policy](https://policies.google.com/privacy), [Google's advertising information](https://policies.google.com/technologies/ads) and [Google Mobile Ads data disclosure](https://developers.google.com/admob/android/privacy/play-data-disclosure) for Google's practices.
 
